@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace TT
+namespace NH
 {
     public class SingletonSelfBehaviour<T> where T : MonoBehaviour
     {
